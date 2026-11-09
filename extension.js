@@ -108,6 +108,8 @@ export default class DeepSeekUsageExtension extends Extension {
         );
         settingsItem.connect('activate', () => this.openPreferences());
         this._indicator.menu.addMenuItem(settingsItem);
+
+        Main.panel.addToStatusArea(this.uuid, this._indicator);
     }
 
     _connectSettings() {
