@@ -1,0 +1,16 @@
+.deepseek-panel-box {
+    spacing: 5px;
+}
+
+.deepseek-low-balance {
+    color: #f66151;
+    font-weight: 700;
+}
+
+.deepseek-menu-title {
+    font-weight: 700;
+}
+
+.deepseek-error-item {
+    color: #f66151;
+}

@@ -1,0 +1,14 @@
+{
+  "uuid": "deepseek-usage@yuqingli525.github.com",
+  "name": "DeepSeek Usage & Balance",
+  "description": "Show DeepSeek API balance and estimated daily spending in the GNOME top bar.",
+  "version": 1,
+  "shell-version": [
+    "48",
+    "49",
+    "50"
+  ],
+  "settings-schema": "org.gnome.shell.extensions.deepseek-usage",
+  "gettext-domain": "deepseek-usage",
+  "url": "https://github.com/YuqingLi525/deepseek-gnome-extension"
+}

@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: deepseek-usage 1.0\n"
+"Language: zh_CN\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "DeepSeek …"
+msgstr "DeepSeek …"
+
+msgid "DeepSeek API"
+msgstr "DeepSeek API"
+
+msgid "Balance: —"
+msgstr "余额：—"
+
+msgid "Today (estimated): —"
+msgstr "今日估算：—"
+
+msgid "Topped up: — · Granted: —"
+msgstr "充值余额：— · 赠金：—"
+
+msgid "Updated: —"
+msgstr "更新时间：—"
+
+msgid "Refresh now"
+msgstr "立即刷新"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Could not read the API key from GNOME Keyring."
+msgstr "无法从 GNOME 密钥环读取 API Key。"
+
+msgid "DeepSeek: setup required"
+msgstr "DeepSeek：需要设置"
+
+msgid "Add your API key in Settings."
+msgstr "请在设置中添加 API Key。"
+
+msgid "Refresh failed."
+msgstr "刷新失败。"
+
+msgid "Authentication failed. Check your API key."
+msgstr "身份验证失败，请检查 API Key。"
+
+msgid "The account balance is insufficient."
+msgstr "账户余额不足。"
+
+msgid "Too many requests. Try again later."
+msgstr "请求过多，请稍后重试。"
+
+msgid "DeepSeek returned HTTP %d."
+msgstr "DeepSeek 返回了 HTTP %d。"
+
+msgid "Today"
+msgstr "今日"
+
+msgid "Balance: %s"
+msgstr "余额：%s"
+
+msgid "Today (estimated): %s"
+msgstr "今日估算：%s"
+
+msgid "Topped up: %s · Granted: %s"
+msgstr "充值余额：%s · 赠金：%s"
+
+msgid "Updated: %s"
+msgstr "更新时间：%s"
+
+msgid "Updated: failed"
+msgstr "更新时间：失败"
+
+msgid "DeepSeek Usage"
+msgstr "DeepSeek 用量"
+
+msgid "API credentials"
+msgstr "API 凭据"
+
+msgid "The API key is stored in GNOME Keyring and is never written to extension settings."
+msgstr "API Key 保存在 GNOME 密钥环中，不会写入扩展设置。"
+
+msgid "DeepSeek API key"
+msgstr "DeepSeek API Key"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Remove"
+msgstr "移除"
+
+msgid "Keyring status"
+msgstr "密钥环状态"
+
+msgid "Display and refresh"
+msgstr "显示与刷新"
+
+msgid "CNY (¥)"
+msgstr "人民币（¥）"
+
+msgid "USD ($)"
+msgstr "美元（$）"
+
+msgid "Preferred currency"
+msgstr "首选币种"
+
+msgid "Used when the API returns more than one currency."
+msgstr "当 API 返回多个币种时优先显示此币种。"
+
+msgid "Refresh interval"
+msgstr "刷新间隔"
+
+msgid "Minutes"
+msgstr "分钟"
+
+msgid "Low-balance threshold"
+msgstr "低余额阈值"
+
+msgid "The top-bar text turns red at or below this value."
+msgstr "余额低于或等于此数值时，顶栏文字显示为红色。"
+
+msgid "Show estimated daily spending"
+msgstr "显示每日消费估算"
+
+msgid "Estimated from balance decreases observed while the extension is running."
+msgstr "根据扩展运行期间观察到的余额下降进行估算。"
+
+msgid "Show icon"
+msgstr "显示图标"
+
+msgid "About"
+msgstr "关于"
+
+msgid "Data source"
+msgstr "数据来源"
+
+msgid "Daily spending is an estimate"
+msgstr "每日消费为估算值"
+
+msgid "Top-ups and expiring grants can affect the estimate. DeepSeek does not expose a daily usage-history API."
+msgstr "充值和赠金到期可能影响估算结果；DeepSeek 暂未提供每日用量历史 API。"
+
+msgid "Enter an API key first."
+msgstr "请先输入 API Key。"
+
+msgid "Saved securely in GNOME Keyring."
+msgstr "已安全保存到 GNOME 密钥环。"
+
+msgid "Could not save the API key: %s"
+msgstr "无法保存 API Key：%s"
+
+msgid "No API key is stored."
+msgstr "未保存 API Key。"
+
+msgid "Could not remove the API key: %s"
+msgstr "无法移除 API Key：%s"
+
+msgid "An API key is stored in GNOME Keyring."
+msgstr "API Key 已保存在 GNOME 密钥环中。"
+
+msgid "GNOME Keyring is unavailable: %s"
+msgstr "GNOME 密钥环不可用：%s"

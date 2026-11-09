@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="deepseek-usage">
+  <schema id="org.gnome.shell.extensions.deepseek-usage" path="/org/gnome/shell/extensions/deepseek-usage/">
+    <key name="refresh-interval" type="u">
+      <default>10</default>
+      <summary>Refresh interval in minutes</summary>
+    </key>
+    <key name="currency" type="s">
+      <default>'CNY'</default>
+      <summary>Preferred currency</summary>
+    </key>
+    <key name="low-balance-threshold" type="d">
+      <default>10.0</default>
+      <summary>Low-balance warning threshold</summary>
+    </key>
+    <key name="show-estimated-usage" type="b">
+      <default>true</default>
+      <summary>Show estimated daily spending in the top bar</summary>
+    </key>
+    <key name="show-icon" type="b">
+      <default>true</default>
+      <summary>Show the indicator icon</summary>
+    </key>
+    <key name="credential-version" type="u">
+      <default>0</default>
+      <summary>Credential change counter</summary>
+    </key>
+    <key name="usage-date" type="s">
+      <default>''</default>
+      <summary>Local date for the current usage estimate</summary>
+    </key>
+    <key name="usage-currency" type="s">
+      <default>''</default>
+      <summary>Currency for the current usage estimate</summary>
+    </key>
+    <key name="usage-last-balance" type="d">
+      <default>0.0</default>
+      <summary>Last observed balance</summary>
+    </key>
+    <key name="usage-estimated-spend" type="d">
+      <default>0.0</default>
+      <summary>Estimated spending for the current local day</summary>
+    </key>
+  </schema>
+</schemalist>
